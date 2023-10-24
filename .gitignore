@@ -1,0 +1,5 @@
+.SD_Store
+Pods
+Podfile.lock
+Instachat.xcworkspace
+GoogleService-Info.plist
